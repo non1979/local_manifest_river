@@ -2,10 +2,10 @@
 <manifest>
 
 <project name="non1979/android_device_motorola_river" path="device/motorola/river" remote="github" revision="lineage-17.1" />
-<project name="non1979/android_device_motorola_sdm632-common" path="device/motorola/sdm632-common" remote="github" revision="lineage-17.1 />
-<project name="non1979/android_kernel_motorola_sdm632" path="kernel/motorola/sdm632" remote="github" revision="lineage-17.1 />
+<project name="non1979/android_device_motorola_sdm632-common" path="device/motorola/sdm632-common" remote="github" revision="lineage-17.1" />
+<project name="non1979/android_kernel_motorola_sdm632" path="kernel/motorola/sdm632" remote="github" revision="lineage-17.1"/>
 <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="lineage-17.1" />
-<project name="LineageOS/android_system_qcom" path=""system/qcom" remote="github" revision="lineage-17.1" />
-<project name="LineageOS/android_external_bson" path=""external/bson" remote="github" revision="lineage-17.1" />
+<project name="LineageOS/android_system_qcom" path="system/qcom" remote="github" revision="lineage-17.1" />
+<project name="LineageOS/android_external_bson" path="external/bson" remote="github" revision="lineage-17.1" />
 
 </manifest>
